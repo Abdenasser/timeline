@@ -23,6 +23,18 @@
   padding: 5px;
 }
 
+.jumbotron > h1 {
+    font-family: 'Lobster', cursive;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+  font-style: normal;
+}
+
 .entry img.avatar{
   width: 20px;
   height: 20px;
