@@ -4,7 +4,7 @@
 
 [HapiJS](https://www.hapijs.com)
 
-[rethinkDB](https://www.ethinkdb.com)
+[rethinkDB](https://www.rethinkdb.com)
 
 [nes plugin](https://github.com/hapijs/nes)
 ### Install
